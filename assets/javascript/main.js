@@ -1,3 +1,5 @@
+console.log("this is connected");
+
 $(document).ready(function() {
 
     var animals = [
